@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello, I am Lowden-Rhythm
+
+<a href="https://www.linkedin.com/in/cole-lowden-7548a3315/"
 
 <!--
 **Lowden-Rhythm/Lowden-Rhythm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
